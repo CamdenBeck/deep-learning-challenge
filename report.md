@@ -5,6 +5,7 @@ The purpose of this analysis is to evaluate the performance of a neural network 
 
 ## Methodology
 ### Data Preparation
+#### Dataset contents
 - The dataset used in this project includes these fields:
     - EIN - Identification column
     - NAME - Identification column

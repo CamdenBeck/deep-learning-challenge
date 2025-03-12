@@ -28,6 +28,9 @@ jupyter notebook Deep_Learning.ipynb
 ```
 However, it is recommended to upload and run this file in Google Colab, and run it from there.
 
+## Analysis
+The analysis report can be found in the [report.md](/report.md) file.
+
 ## References
 ### [Deep_Learning.ipynb](Deep_Learning.ipynb) starter code
 “Module 21 Challenge”, https://bootcampspot.instructure.com/courses/6252/assignments/88744?module_item_id=1328730. Accessed 8 March. 2025.
